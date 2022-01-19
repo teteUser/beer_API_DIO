@@ -8,6 +8,7 @@ import lombok.Getter;
 public enum BeerType {
 
     LAGER("Lager"),
+    PIELSEN("Pielsen"),
     MALZBIER("Malzbier"),
     WITBIER("Witbier"),
     WEISS("Weiss"),
